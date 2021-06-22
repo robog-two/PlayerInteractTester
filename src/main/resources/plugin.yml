@@ -1,0 +1,4 @@
+name: PlayerInteractTester
+version: ${project.version}
+main: com.reflectednetwork.playerinteracttester.PlayerInteractTester
+api-version: 1.17
